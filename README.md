@@ -1,5 +1,8 @@
 ## Welcome to dumpy's profile!
 
+# FEATURED PROJECT!!
+[CounterApp](https://github.com/dumpydev/counterapp)
+
 ### About Me
 
 I enjoy to program, I play basketball.
