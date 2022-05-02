@@ -1,11 +1,11 @@
 ## Welcome to dumpy's profile!
 
 # FEATURED PROJECT!!
-[CounterApp](https://github.com/dumpydev/counterapp)
+[weather](https://github.com/dumpydev/weather)
 
 ### About Me
 
-I enjoy to program, I play basketball.
+I enjoy programming, I play basketball.
 
 **You can [click here](https://dumpyy.xyz) to check out my website!**
 
