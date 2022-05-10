@@ -1,7 +1,7 @@
 ## Welcome to dumpy's profile!
 
 # FEATURED PROJECT!!
-[weather](https://github.com/dumpydev/weather)
+[weather - Flutter App](https://github.com/dumpydev/weather)
 
 ### About Me
 
@@ -16,6 +16,9 @@ I enjoy programming, I play basketball.
 - 🔭 I’m currently working on [Zoom-F](https://zoom.dumpyy.xyz)
 
 - 🤔 I’m looking for help with C++ 💀
+
+# Funny stuff:
+(https://gist.github.com/dumpydev/)[https://gist.github.com/dumpydev/]
 
 ### GitHub Stats
 
