@@ -18,7 +18,7 @@ I enjoy programming, I play basketball.
 - 🤔 I’m looking for help with C++ 💀
 
 # Funny stuff:
-(https://gist.github.com/dumpydev/)[https://gist.github.com/dumpydev/]
+[https://gist.github.com/dumpydev/](https://gist.github.com/dumpydev/)
 
 ### GitHub Stats
 
