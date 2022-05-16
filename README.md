@@ -1,5 +1,5 @@
-# Hi! Im dumpy. 
 ![banner](https://dumpyy.gq/files/ghprofile.png)
+## Hi! Im dumpy. 
 Hello! I am Andrew (known as dumpy). I am an Android enthusiast and programmer.
 # Main website
 [https://dumpyy.xyz](https://dumpyy.xyz)  
