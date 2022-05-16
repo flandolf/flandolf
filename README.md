@@ -1,4 +1,5 @@
 # Hi! Im dumpy. 
+![banner](https://dumpyy.gq/files/ghprofile.png)
 Hello! I am Andrew (known as dumpy). I am an Android enthusiast and programmer.
 # Main website
 [https://dumpyy.xyz](https://dumpyy.xyz)  
@@ -24,11 +25,6 @@ Hello! I am Andrew (known as dumpy). I am an Android enthusiast and programmer.
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-### GitHub Stats
-
-![dumpy's github stats](https://github-readme-stats.vercel.app/api?username=dumpydev&theme=dark&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumpydev&theme=dark)
 ### GitHub Statistics
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dumpydev&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&show_owner=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumpydev&hide=TeX&layout=compact&theme=tokyonight&langs_count=8)
