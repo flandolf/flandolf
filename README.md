@@ -2,7 +2,7 @@
 ## Hi! Im dumpy. 
 Hello! I am Andrew (known as dumpy online). I am an Android enthusiast and programmer.
 # Featured Project
-[https://dumpyy.gq/idealfraccalc](Ideal Fraction Calculator)
+[Ideal Fraction Calculator](https://dumpyy.gq/idealfraccalc)
 # Main website
 [https://dumpyy.xyz](https://dumpyy.xyz)  
 # Side Projects
