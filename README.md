@@ -1,4 +1,4 @@
-![banner](https://dumpyy.gq/files/ghprofile.png)
+![banner](https://dumpyy.gq/files/ghprofile2.png)
 ## Hi! Im dumpy. 
 Hello! I am Andrew (known as dumpy online). I am an Android enthusiast and programmer.
 # Featured Project
