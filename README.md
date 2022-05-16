@@ -1,6 +1,8 @@
 ![banner](https://dumpyy.gq/files/ghprofile.png)
 ## Hi! Im dumpy. 
-Hello! I am Andrew (known as dumpy). I am an Android enthusiast and programmer.
+Hello! I am Andrew (known as dumpy online). I am an Android enthusiast and programmer.
+# Featured Project
+[https://dumpyy.gq/idealfraccalc](Ideal Fraction Calculator)
 # Main website
 [https://dumpyy.xyz](https://dumpyy.xyz)  
 # Side Projects
