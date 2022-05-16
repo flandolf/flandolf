@@ -26,6 +26,11 @@ Hello! I am Andrew (known as dumpy online). I am an Android enthusiast and progr
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+# Contact Me!
+[![Gmail Badge](https://img.shields.io/badge/-andy@dumpyy.xyz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andy@dumpyy.xyz)](mailto:andy@dumpyy.xyz)
+[![Telegram Badge](https://img.shields.io/badge/-@AndyWang13-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/AndyWang14 "Contact on Telegram")
+
+
 ### GitHub Statistics
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dumpydev&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&show_owner=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumpydev&hide=TeX&layout=compact&theme=tokyonight&langs_count=8)
