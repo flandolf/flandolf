@@ -7,8 +7,7 @@ Hello! I am Andrew (known as dumpy). I am an Android enthusiast and programmer.
 [https://dumpyy.gq](https://dumpyy.gq)   
 # Funny stuff:
 [https://gist.github.com/dumpydev/](https://gist.github.com/dumpydev/)
-# Technologies!
-## ⚡ Technologies ive used!
+## Things ive used!
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
