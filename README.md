@@ -1,6 +1,9 @@
 ![banner](https://dumpyy.gq/files/ghprofile2.png)
 # 💫 About Me:
 - JS/Java/C# Dev with 5+ years experience
+- Not a bad basketball player 💀
+- Touches grass
+- S21FE / Nokia 2.3 / Realme 7 5G
 
 
 ## 🌐 Socials:
