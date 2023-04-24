@@ -1,10 +1,7 @@
 ![banner](https://www.dumpyy.gq/files/ghprofile2.png)
 # 💫 About Me:
-- JS/Java/C# Dev with 5+ years experience
-- Not a bad basketball player 💀
-- Touches grass
+- Full Stack developer with 5+ years experience
 - iPhone 12 Pro Max / S21FE / Nokia 2.3 / Realme 7 5G 
-- Previously dumpydev
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@flandolf0) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/flandolfina) 
