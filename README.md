@@ -1,4 +1,5 @@
-![banner](https://www.dumpyy.gq/files/ghprofile2.png)
+# flutter supremacy!
+
 # 💫 About Me:
 - Full Stack developer with 5+ years experience
 - iPhone 12 Pro Max / S21FE / Nokia 2.3 / Realme 7 5G 
