@@ -1,8 +1,10 @@
-# flutter supremacy!
+# flutter supremacy! 
 
 # 💫 About Me:
-- Full Stack developer with 5+ years experience
-- iPhone 12 Pro Max / S21FE / Nokia 2.3 / Realme 7 5G 
+- Full Stack developer with 5+ years experience (joking)
+- iPhone 12 Pro Max / S21FE / Nokia 2.3 / Realme 7 5G
+- Main Laptop: 2023 Macbook Pro 10 Core M2 Pro / 16GB RAM
+- Main PC: AMD Ryzen 7 7800X3D / 32GB RAM / RTX 4070
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@flandolf0) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/flandolfina) 
