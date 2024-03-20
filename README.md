@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 - Full Stack developer with 5+ years experience (joking)
-- iPhone 12 Pro Max / S21FE / Nokia 2.3 / Realme 7 5G
+- Oneplus 12 1TB/24GB + iPhone 12 Pro Max 512GB
 - Main Laptop: 2023 Macbook Pro 10 Core M2 Pro / 16GB RAM
 - Main PC: AMD Ryzen 7 7800X3D / 32GB RAM / RTX 4070
 
