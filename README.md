@@ -1,4 +1,5 @@
-# flutter supremacy! 
+# hi! i'm flandolf.
+flutter supremacy!
 https://flandolf.site
 # 💫 About Me:
 - Full Stack developer with 5+ years experience (joking)
